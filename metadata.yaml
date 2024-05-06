@@ -1,0 +1,34 @@
+_repo: Ihminen-uusimpien-tieteellisten-ja-salatieteellisten-tutkimusten-valossa-b-Viisi-esitelmaa_73471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Angervo, Willie
+    birthdate: 1875
+    deathdate: 1938
+    gutenberg_agent_id: '56908'
+    url: http://www.gutenberg.org/2009/agents/56908
+    wikipedia: https://fi.wikipedia.org/wiki/Willie_Angervo
+description: ''
+gutenberg_issued: '2024-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73471'
+language: fi
+pgterms:marc905: 20240227040714angervo
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bTeosofinen Kirjakauppa ja Kustannusliike, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- GITenberg
+tableOfContents: Eri tutkimustapoja ja ajatussuuntia, jotka käsittelevät ihmistä --
+  Fyysillisillä aisteilla havaittu ihminen -- Stellan silmä ja sillä nähty ihminen
+  -- Järjen synty -- Ihmisen jälleensyntyminen.
+title: 'Ihminen uusimpien tieteellisten ja salatieteellisten tutkimusten valossa :
+  $b Viisi esitelmää'
+url: http://www.gutenberg.org/ebooks/73471
