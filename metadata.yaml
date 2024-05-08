@@ -1,5 +1,8 @@
 _repo: Ihminen-uusimpien-tieteellisten-ja-salatieteellisten-tutkimusten-valossa-b-Viisi-esitelmaa_73471
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Angervo, Willie
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56908
     wikipedia: https://fi.wikipedia.org/wiki/Willie_Angervo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73471#Ihminen-uusimpien-tieteellisten-ja-salatieteellisten-tutkimusten-valossa-b-Viisi-esitelmaa
 gutenberg_issued: '2024-04-26'
 gutenberg_type: Text
 identifiers:
